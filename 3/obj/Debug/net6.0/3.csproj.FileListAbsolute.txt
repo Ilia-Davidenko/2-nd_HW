@@ -1,0 +1,15 @@
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/bin/Debug/net6.0/3
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/bin/Debug/net6.0/3.deps.json
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/bin/Debug/net6.0/3.runtimeconfig.json
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/bin/Debug/net6.0/3.dll
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/bin/Debug/net6.0/3.pdb
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.dll
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/refint/3.dll
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.pdb
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/3.genruntimeconfig.cache
+/Users/smile/Documents/Обучение/Знакомство с языками программирования/ДЗ 2 семинар/3/obj/Debug/net6.0/ref/3.dll
